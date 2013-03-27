@@ -13,7 +13,7 @@ namespace HarvestCloud\StripeBundle;
  * Stripe
  *
  * @author Tom Haskins-Vaughan <tom@harvestcloud.com>
- * @scein  2013-03-26
+ * @since  2013-03-26
  */
 class Stripe
 {
